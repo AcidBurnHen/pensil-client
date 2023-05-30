@@ -1,0 +1,11 @@
+// CSS TIPS
+// 1. Avoid using px, use rem/vh/vw when possible 
+// 2. Build the design mobile-first, then worry about the desktop with media queries/container queries
+// 3. Use SASS mixins and variables to make your life easier 
+// 4. Learn the BEM methodology -> https://www.toptal.com/css/introduction-to-bem-methodology
+
+.main {
+  .hello {
+    font-size: 1rem;
+  }
+}
