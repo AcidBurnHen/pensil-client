@@ -24,8 +24,13 @@ https://nextjs.org/learn/foundations/about-nextjs
         - Preferably .svg
 3. Components folder 
     - React re-usable components (building blocks) for pages
-
+4. Functions folder
+    - Pure javascript(typescript) functions 
+ 
 ## TODO
 - Change description in layout.tsx 
 - Change favicon.ico with your logo, but the name of the file should stay the same
 - Edit and style Header.tsx component 
+
+## VSCODE Tips
+- Select text and then press ctrl+d to select next exact text match (as many as you can). Useful for mass editing 
