@@ -8,6 +8,7 @@ export const metadata = {
   title: 'Pensil App',
   // Change this description (and title if neccessary) and then delete this comment 
   description: 'Discover endless inspiration and connect with like-minded artists',
+  keywords: 'Art, Digitial Art',
 }
 
 // Nothing to change here, default settings.
